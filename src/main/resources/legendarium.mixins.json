@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.cloud.legendarium.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "LegendariumMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
